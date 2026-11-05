@@ -1,0 +1,9 @@
+# Binaries
+portscan
+*.exe
+
+# Build artifacts
+/dist/
+
+# Go
+*.test
